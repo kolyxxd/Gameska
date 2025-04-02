@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
-cout << "kokos"
-
+int x;
+int y;
 int main(){
-
+cin >>x;
+cin >>y;
+cout << x+y;
 }
