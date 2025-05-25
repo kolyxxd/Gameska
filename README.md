@@ -5,3 +5,4 @@
 0.4- přidání prvních fightu(stale nehratelny  pouze priprava)
 0.5- pridani vsech fughtu krome bosse 
 0.6- pridana moznost pouzivani schopnosti 
+0.7-opravena konzumace many a pridam system na levelovani
