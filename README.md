@@ -6,3 +6,4 @@
 0.5- pridani vsech fughtu krome bosse 
 0.6- pridana moznost pouzivani schopnosti 
 0.7-opravena konzumace many a pridam system na levelovani
+0.8-  přidána funkce pro pouziti itemu,nakoupeni itemu a finalni boss/ i guess asi je to hotový? 
