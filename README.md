@@ -8,3 +8,4 @@
 0.7-opravena konzumace many a pridam system na levelovani
 0.8-  přidána funkce pro pouziti itemu,nakoupeni itemu a finalni boss/ i guess asi je to hotový? 
 0.9- upraveny hp a dmg pro lepsi vyvazenost + pridan jeste jeden fight
+1.0- posledni balancovani a melo by to byt done takže enjoy i guess
